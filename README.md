@@ -183,9 +183,6 @@ Options provided as command-line arguments will always have precedence over the
 values in the configuration file. So `--zoom=1.5` will set the zoom factor to
 1.5 regardless of what's in the config file.
 
-## Authors
 
-[Max Kueng](https://github.com/maxkueng), [Yoshua Wuyts](https://github.com/yoshuawuyts)
-and [contributors](https://github.com/yoshuawuyts/vmd/graphs/contributors).
 
 
