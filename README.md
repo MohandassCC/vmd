@@ -188,18 +188,4 @@ values in the configuration file. So `--zoom=1.5` will set the zoom factor to
 [Max Kueng](https://github.com/maxkueng), [Yoshua Wuyts](https://github.com/yoshuawuyts)
 and [contributors](https://github.com/yoshuawuyts/vmd/graphs/contributors).
 
-## License
 
-[MIT](https://tldrlegal.com/license/mit-license)
-
-[npm-image]: https://img.shields.io/npm/v/vmd.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/vmd
-[travis-image]: https://img.shields.io/travis/yoshuawuyts/vmd/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/yoshuawuyts/vmd
-[downloads-image]: http://img.shields.io/npm/dm/vmd.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/vmd
-[emoji-cheat-sheet]: http://www.emoji-cheat-sheet.com/
-[codacy-image]: https://img.shields.io/codacy/grade/ccaa489b6f664ebd9a12d900334be10f/master.svg?style=flat-square
-[codacy-url]: https://www.codacy.com/app/maxkueng/vmd?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yoshuawuyts/vmd&amp;utm_campaign=Badge_Grade
-[frontmatter]: https://jekyllrb.com/docs/frontmatter/
-[hugo-frontmatter]: https://gohugo.io/content-management/front-matter/
