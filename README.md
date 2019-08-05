@@ -70,13 +70,7 @@ $ npm install -g vmd
 ## Usage
 
 ```
-vmd [FILE] [OPTIONS]
-```
-
-If no FILE is provided it will try to read from standard input, or
-automatically look for "README.md" if in a TTY.
-
-### Examples
+# Examples
 
 Read a file from disk:
 
